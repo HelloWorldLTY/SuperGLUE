@@ -12,5 +12,5 @@ from . import data, genomics, graph, models, num, plot
 from .utils import config, log
 
 
-name = "scglue"
+name = "superglue"
 __version__ = version(name)
