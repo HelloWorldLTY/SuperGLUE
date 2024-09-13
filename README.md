@@ -6,6 +6,12 @@ This is the official implementation of **SuperGLUE**, which is an improved versi
 
 Please refer [GLUE](https://github.com/gao-lab/GLUE) to prepare the necessary environments for running. 
 
+Please use this instruction to install SuperGLUE
+
+```
+pip install .
+```
+
 To find the relationships between cell states and features, please install shap:
 
 ```
