@@ -24,11 +24,21 @@ conda install -c conda-forge shap
 
 Please see the attached files for running **SuperGLUE** for multi-omic data integration.
 
-## Citation
-
-Please use the following links for citation:
-
-
 ## Acknowledgement
 
 We thank developers of [GLUE](https://github.com/gao-lab/GLUE) for their suggestions.
+
+## Citation
+
+Please use the following links for citation:
+```
+@article{liu2024beyond,
+  title={Beyond Integration: SuperGLUE Facilitates Explainable Training Framework for Multi-modal Data Analysis},
+  author={Liu, Tianyu and Zhao, Jia and Zhao, Hongyu},
+  journal={bioRxiv},
+  pages={2024--11},
+  year={2024},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
